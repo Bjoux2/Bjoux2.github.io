@@ -6,10 +6,10 @@ email: hy1qming@gmail.com
 description: "Fortunately, in my first year of graduate school, I had the good luck to fall into the hands of senior physicists who insisted,over my anxious objections, that I must start
 doing research, and pick up what I needed to know as I went along. It was sink or swim. To my surprise, I found that this works. I managed to get a quick PhD —
 though when I got it I knew almost nothing about physics. But I did learn one big thing: that no one knows everything, and you don’t have to. ——Four golden lessons, Steven Weinberg"
-keyword: "BY, BY Blog, 柏荧的博客, qiubaiying, 邱柏荧, iOS, Apple, iPhone"
-url: "http://qiubaiying.github.io"          # your host, for absolute URL
+keyword: "MW, MW Blog, MW的博客"
+url: "http://bjoux2.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/qiubaiying/qiubaiying.github.io.git" # you code repository
+github_repo: "https://github.com/Bjoux2/Bjoux2.github.io.git" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
@@ -21,10 +21,10 @@ sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's us
 # SNS settings
 RSS: false
 # weibo_username:     qiubaiying
-zhihu_username:     qiubaiying
-github_username:    qiubaiying
-facebook_username:  baiying.qiu.7
-jianshu_username:   e71990ada2fd
+#zhihu_username:     qiubaiying
+github_username:    Bjoux2
+#facebook_username:  baiying.qiu.7
+jianshu_username:   b7ebada8a3e5
 #twitter_username:   qiubaiying
 
 
