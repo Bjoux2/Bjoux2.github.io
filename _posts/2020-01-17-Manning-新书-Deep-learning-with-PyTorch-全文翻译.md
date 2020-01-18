@@ -19,20 +19,15 @@ tags:
 > 4.每天两千字连载。
 
 ## 目录
-
 1. 深度学习和PyTorch简介
-
 1.1 PyTorch简介
-
 1.2 本书简介
-
 1.3 为什么选择PyTorch
-
 1.4 PyTorch has the batteries included
 
 ## 作者
 
-Eli Stevens，软件工程师，十五年工作经验，过去七年在一家医疗设置制造初创企业担任首席技术官。
+Eli Stevens，软件工程师，十五年工作经验，过去七年在一家医疗设备制造初创企业担任首席技术官。
 
 Luca Antiga，意大利贝加莫一家AI工程公司的联合创始人兼CEO，同时也是PyTorch的长期贡献者。
 
